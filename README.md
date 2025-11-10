@@ -1,0 +1,2 @@
+export PROXY_TARGETS="1.2.3.4:8080,5.6.7.8:9000"
+export PORT=8080
